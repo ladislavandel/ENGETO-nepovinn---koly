@@ -1,2 +1,2 @@
 # ENGETO-nepovinn---koly
-nepovinné úkoly
+PC karta
