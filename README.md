@@ -1,2 +1,2 @@
-# ENGETO-nepovinn---koly
+# ENGETO-PC-KARTA
 PC karta
